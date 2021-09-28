@@ -2,33 +2,29 @@
 {
 "userIcon": "🇩🇪",
 "name": "Edge",
-"name": "<@!405830369175142400>",
 "allyCode": "257952442",
 "tagIdOnClimb": "",
-"tagIdOnDrop": ""
+"tagIdOnDrop": "405830369175142400"
 },
  {
    "userIcon": "🇭🇷",
    "name": "gusti",
-   "name": "<@!541689935128690701>",
    "allycode": 431791237,
    "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
+   "tagIdOnDrop": "541689935128690701"
  },
 {
    "userIcon": "🇺🇳",
    "name": "Loyretired",
-   "name": "<@!364242244393500673>",
    "allycode": 312256698,
    "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
+   "tagIdOnDrop": "364242244393500673"
  },
 {
    "userIcon": "🇭🇺",
    "name": "Sanyi",
-   "name": "<@!698959249350590494>",
    "allycode": 225654179,
    "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
+   "tagIdOnDrop": "698959249350590494"
  }
 ]
