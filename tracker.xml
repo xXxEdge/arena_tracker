@@ -63,18 +63,11 @@
    "tagIdOnDrop": ""
  },
  {
-   "userIcon": "🇲🇺",
-   "name": "Garn",
-   "allycode": 755735627,
-   "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
- },
- {
-   "userIcon": "🇲🇺",
+   "userIcon": "🇺🇸",
    "name": "GregNobody",
    "allycode": 259995546,
-   "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
+   "tagIdOnClimb": "229301088749092864",
+   "tagIdOnDrop": "229301088749092864"
  },
 {
    "userIcon": "🇨🇦",
@@ -155,13 +148,6 @@
    "tagIdOnDrop": "417716553232941067"
  },
  {
-   "userIcon": "🇲🇺",
-   "name": "LordLuchs",
-   "allycode": 655965518,
-   "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
- },
- {
    "userIcon": "🇺🇳🇩🇰",
    "name": "Lordgronlund",
    "allycode": 346715889,
@@ -169,11 +155,11 @@
    "tagIdOnDrop": "409744858991820800"
  },
 {
-   "userIcon": "🇲🇺",
+   "userIcon": "🇪🇸",
    "name": "BarhisSontebren",
    "allycode": 947767767,
-   "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
+   "tagIdOnClimb": "605358018363654145",
+   "tagIdOnDrop": "605358018363654145"
  },
 {
    "userIcon": "🇬🇷",
