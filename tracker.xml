@@ -8,6 +8,13 @@
 },
 {
    "userIcon": "👹",
+   "name": "The Undertaker",
+   "allycode": 146258421,
+   "tagIdOnClimb": "",
+   "tagIdOnDrop": ""
+ },
+{
+   "userIcon": "👹",
    "name": "Mister BingBong",
    "allycode": 777415212,
    "tagIdOnClimb": "",
@@ -84,18 +91,18 @@
    "tagIdOnDrop": "446734051479650306"
  },
  {
-   "userIcon": "👹",
+   "userIcon": "🇺🇸",
    "name": "grubbyhippy",
    "allycode": 792941698,
-   "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
+   "tagIdOnClimb": "342057147854749697",
+   "tagIdOnDrop": "342057147854749697"
  },
  {
    "userIcon": "🇺🇸",
-   "name": "GregNobody",
+   "name": "TerryFoster",
    "allycode": 259995546,
-   "tagIdOnClimb": "229301088749092864",
-   "tagIdOnDrop": "229301088749092864"
+   "tagIdOnClimb": "139415636634894336",
+   "tagIdOnDrop": "139415636634894336"
  },
 {
    "userIcon": "🇨🇦",
