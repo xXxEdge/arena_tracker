@@ -36,6 +36,14 @@
  },
 {
    "userIcon": "👹",
+   "name": "Machette",
+   "allycode": 947221317,
+   "tagIdOnClimb": "",
+   "tagIdOnDrop": ""
+ },
+
+{
+   "userIcon": "👹",
    "name": "Bman",
    "allycode": 623372657,
    "tagIdOnClimb": "",
