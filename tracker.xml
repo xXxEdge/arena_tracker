@@ -8,6 +8,13 @@
 },
 {
    "userIcon": "👹",
+   "name": "Clarkson",
+   "allycode": 166918651,
+   "tagIdOnClimb": "",
+   "tagIdOnDrop": ""
+ },
+{
+   "userIcon": "👹",
    "name": "Greg Starwalker aka Milus",
    "allycode": 924953339,
    "tagIdOnClimb": "",
@@ -17,13 +24,6 @@
    "userIcon": "👹",
    "name": "Nul",
    "allycode": 874861965,
-   "tagIdOnClimb": "",
-   "tagIdOnDrop": ""
- },
-{
-   "userIcon": "👹",
-   "name": "Dante",
-   "allycode": 7037381,
    "tagIdOnClimb": "",
    "tagIdOnDrop": ""
  },
